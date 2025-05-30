@@ -1,8 +1,6 @@
 # MedDev
 Title of Project: MedDev
-Student Name: Sam Goldberg
-Student Name: Siem Yonas
-Date: 10/8/2024
+Student Names: Sam Goldberg & Siem Yonas
 
 ## Thesis
 
